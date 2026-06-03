@@ -1,0 +1,6 @@
+requests
+pandas
+python-dotenv
+tabulate
+colorama
+streamlit
